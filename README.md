@@ -1,5 +1,3 @@
-# Portfolio-
-“Professional Front-End Developer | React, JavaScript, Responsive Design | Interactive Portfolio”
 <!DOCTYPE html>
 <html lang="en">
 <head>
